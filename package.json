@@ -1,0 +1,19 @@
+{
+  "name": "sourcemaps-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "@kasa/koa-request-id": "^2.0.1",
+    "serialize-error": "*",
+    "@koa/cors": "^3.0.0",
+    "dotenv": "^8.1.0",
+    "koa": "^2.8.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa2-winston": "^3.1.1",
+    "pino": "^5.13.2",
+    "winston": "^3.2.1"
+  }
+}
