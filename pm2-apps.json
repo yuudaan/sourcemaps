@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "sourcemaps-api",
+      "script": "npm start"
+    }
+  ]
+}
